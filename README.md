@@ -60,4 +60,4 @@ I am always open to discussing new opportunities in **Cybersecurity**, **DevOps*
 * **Phone:** +94 775 113 345
 
 ---
-*Built with Isuru Anuruddha 🇱🇰*
+*Built by Isuru Anuruddha 🇱🇰*
